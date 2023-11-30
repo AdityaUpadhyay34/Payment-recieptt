@@ -1,0 +1,32 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aquamarine;
+    text-align: center;
+    padding: 20px;
+
+}
+#receipt{
+    max-width: 400px;
+    margin: 0 auto;
+    background-color: #fff;
+    border: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    padding: 20px;
+
+}
+h1{
+    color: #333;
+}
+p{
+    margin: 10px 0;
+}
+#payagainbtn{
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    display: inline-block;
+    margin-top: 20px;
+    cursor: pointer;
+}
